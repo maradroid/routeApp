@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=95:B5:8E:96:30:7F:79:D3:C4:2B:51:36:DE:18:75:F6:08:FA:57:67%3Bcom.maradroid.routeapp
+
+    You can also add your credentials to an existing key, using this line:
+    95:B5:8E:96:30:7F:79:D3:C4:2B:51:36:DE:18:75:F6:08:FA:57:67;com.maradroid.routeapp
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyCuV1iPajyIdrfBIDm7H43uGL6p46aN26E
+    </string>
+</resources>
